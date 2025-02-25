@@ -20,7 +20,7 @@ Each person naturally excels in two of these areas (their "Genius"), is capable 
 This repository contains prompt collections for creating tailored Working Genius assessments for different target groups, along with evaluation methods and actionable recommendations.
 
 ### English Resources
-- [Prompt Collection for Different Target Groups](WorkingGeniusPromptsEN.md))
+- [Prompt Collection for Different Target Groups](WorkingGeniusPromptsEN.md)
   - Context and Goal
   - Prompt for a Concealed Adult Questionnaire
   - Prompt for a Concealed Youth Questionnaire (Crazy)
@@ -29,7 +29,7 @@ This repository contains prompt collections for creating tailored Working Genius
   - Prompt for the Evaluation with Action Recommendations in SMART Format
 
 ### German Resources
-- [Prompt-Sammlung für unterschiedliche Zielgruppen](WorkingGeniusPromptsDE.md))
+- [Prompt-Sammlung für unterschiedliche Zielgruppen](WorkingGeniusPromptsDE.md)
   - Kontext und Ziel
   - Prompt für einen verdeckten Erwachsenen Fragebogen
   - Prompt für einen verdeckten Jugend Fragebogen (Crazy)
